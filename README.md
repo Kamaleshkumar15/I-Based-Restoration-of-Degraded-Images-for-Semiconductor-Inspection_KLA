@@ -3,8 +3,7 @@
 A U-Net based deep-learning project for restoring degraded semiconductor wafer inspection images.
 
 > **Educational Prototype:** This project is inspired by industrial semiconductor inspection workflows. It uses synthetic wafer-style imagery and does **not** use proprietary industrial data, models, or algorithms.
-https://github.com/python-pillow/Pillow/issues/5837
-https://makeagif.com/gif/understanding-degradation-of-lithium-ion-batteries-the-university-of-oxford-N1MXDy
+
 ## 📌 Overview
 
 Semiconductor inspection images can be affected by sensor noise, blur, low contrast, uneven illumination, and scan-line artifacts. These degradations can make circuit-pattern details harder to inspect.
