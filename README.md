@@ -3,6 +3,7 @@
 A U-Net based deep-learning project for restoring degraded semiconductor wafer inspection images.
 
 > **Educational Prototype:** This project is inspired by industrial semiconductor inspection workflows. It uses synthetic wafer-style imagery and does **not** use proprietary industrial data, models, or algorithms.
+<img width="384" height="207" alt="DespicableMeLolGIF" src="https://github.com/user-attachments/assets/31fec1a9-890d-40ba-8ade-dcbb0b3e9cde" />
 
 ## 📌 Overview
 
