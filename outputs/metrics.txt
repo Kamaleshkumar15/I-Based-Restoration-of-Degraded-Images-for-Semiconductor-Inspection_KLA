@@ -1,0 +1,4 @@
+Samples evaluated: 50
+Average PSNR before restoration: 17.52 dB
+Average PSNR after restoration:  20.56 dB
+Average SSIM after restoration:  0.5561

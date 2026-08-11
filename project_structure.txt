@@ -1,0 +1,24 @@
+semiconductor_inspection_restoration_IDLE/
+├── README.md
+├── requirements.txt
+├── run_project.py
+├── data/
+│   ├── raw/
+│   └── processed/
+│       ├── clean/
+│       └── degraded/
+├── models/
+│   └── best_restoration.pth
+├── outputs/
+│   ├── metrics.txt
+│   ├── comparison.png
+│   └── restoration_pipeline.gif
+└── src/
+    ├── 01_generate_dataset.py
+    ├── 02_train_model.py
+    ├── 03_evaluate_model.py
+    ├── 04_restore_image.py
+    ├── 05_create_gif.py
+    ├── 06_idle_app.py
+    ├── 07_gradio_app.py
+    └── model.py
